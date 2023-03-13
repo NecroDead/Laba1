@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\YP_l1\YP_l1\bin\Debug\netcoreapp3.1\YP_l1.exe
+C:\Users\DELL\source\repos\YP_l1\YP_l1\bin\Debug\netcoreapp3.1\YP_l1.deps.json
+C:\Users\DELL\source\repos\YP_l1\YP_l1\bin\Debug\netcoreapp3.1\YP_l1.runtimeconfig.json
+C:\Users\DELL\source\repos\YP_l1\YP_l1\bin\Debug\netcoreapp3.1\YP_l1.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\YP_l1\YP_l1\bin\Debug\netcoreapp3.1\YP_l1.dll
+C:\Users\DELL\source\repos\YP_l1\YP_l1\bin\Debug\netcoreapp3.1\YP_l1.pdb
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.dll
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.pdb
+C:\Users\DELL\source\repos\YP_l1\YP_l1\obj\Debug\netcoreapp3.1\YP_l1.genruntimeconfig.cache
